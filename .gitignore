@@ -1,0 +1,13 @@
+#	JAVA	#
+*.class
+
+#	PACKAGES FILES	#
+.war
+.jar
+.ear
+
+#	ECLIPSE 	#
+.project
+.classpath
+.settings
+
